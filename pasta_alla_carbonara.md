@@ -1,4 +1,5 @@
 # Pasta alla carbonara - das Originalrezept
+Originalrezept Spaghetti CarbonaraDie einzig wahre Carbonara. In einigen Rezepten und wird ein Teil der Eier durch Sahne ersetzt, was in Italien jedoch eher unüblich ist. Etwas Nudelwasser sorgt dafür, dass die Eier-Käse-Masse nicht zu fest wird.
 
 ## Zutaten für 4 Portionen:
 * 2 Knoblauchzehen
