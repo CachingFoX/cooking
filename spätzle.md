@@ -2,10 +2,10 @@
 für 4 Personen
 
 ## Zutasten
-2 Eier
-250g Mehl
-1/8l Wasser
-Salz
+* 2 Eier
+* 250g Mehl
+* 1/8l Wasser
+* Salz
 
 Teig sollte zähflüssig sein (ungeeignet für den schöpflöffel) 
 
